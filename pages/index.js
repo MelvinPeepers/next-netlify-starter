@@ -18,6 +18,9 @@ export default function Home() {
         <p>
           Setup branch subdomain
         </p>
+        <p>
+          redirects
+        </p>
       </main>
 
       <Footer />
