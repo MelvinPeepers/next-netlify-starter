@@ -4,8 +4,8 @@
 
 
 [[redirects]]
-  from = "/search"
-  to = "https://www.google.com/"
+  from = "/mel"
+  to = "https://www.melvinpeepers.com"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
