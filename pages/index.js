@@ -14,6 +14,8 @@ export default function Home() {
         <Header title="Testing Next.js with Netlify" />
         <p className="description">
           Commit, push and make sure this branch deploy builds correctly.
+        </p>
+        <p>
           Setup branch subdomain
         </p>
       </main>
