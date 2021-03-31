@@ -1,4 +1,2 @@
-/* /404
-
-http://setup.next.melvinpeepers.com/*   http://setup.next.melvinpeepers.com/:splat 301!
-https://setup.next.melvinpeepers.com/*  https://setup.next.melvinpeepers.com/:splat 301!
+http://setup.next.melvinpeepers.com/*   http://next.melvinpeepers.com/:splat 301!
+https://setup.next.melvinpeepers.com/*  https://next.melvinpeepers.com/:splat 301!
