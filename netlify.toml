@@ -1,7 +1,3 @@
 [build]
   command = "npm run build"
   publish = "out"
-
-[[redirects]]
-http://setup.next.melvinpeepers.com/* http://setup.next.melvinpeepers.com/:splat 301!
-https://setup.next.melvinpeepers.com/* https://setup.next.melvinpeepers.com/:splat 301!
