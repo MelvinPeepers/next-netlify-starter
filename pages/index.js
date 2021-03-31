@@ -21,6 +21,9 @@ export default function Home() {
         <p>
           redirects
         </p>
+        <p>
+          404 page
+        </p>
       </main>
 
       <Footer />
